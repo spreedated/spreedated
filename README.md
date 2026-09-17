@@ -36,29 +36,34 @@ Morpheus: That you are a slave, Neo.
 
 <br />
 
-## Informations
+## My Journey
 
-<details>
- <summary><h3>Journey</h3></summary>
-   Back in the days of the mid-90s I sat infront of my AMIGA1200 and it's Workbench and wonder what can be possibly done.<br/>
-   Imagined to make the machine display things I want, manifest my thoughts.<br/>
-   Back then I was not older than seven, but I had the affinity; wanting to understand why it does work and how it does work.<br/>
-   Later I learned that there's a term for it, it's called <bold>Hacker</bold>.<br/>
-   Thou I never really indentified me as one, this was where it all started.<br/><br/>
-   Movies like <bold>Terminator 2</bold> taught me to push the boundaries of what's possible with code and machines, my journey had begun.
-</details>
+It started in the mid-'90s, sitting in front of an Amiga 1200 and wondering what this machine could really do.
+
+I was around seven years old when I first became fascinated by the idea of making a computer display the things I imagined, turning thoughts into something real on a screen.
+
+More than simply using computers, I wanted to understand them: why something worked, how it worked, and what would happen if I pushed it a little further.
+
+Years later, I learned that there was a word for that kind of curiosity: **hacking**. I never really thought of myself as a hacker, but the mindset, exploring, understanding, modifying and building, has stayed with me ever since.
+
+Games, computers and movies such as **Terminator 2**, along with series like **MacGyver**, only reinforced that fascination with software, electronics, machines and creative problem-solving.
+
+The idea that you could understand how something worked, improvise with the tools available, and build or fix things yourself had a lasting influence on me.
+
+That curiosity eventually became a profession, but the motivation is still largely the same:
+
+**Build things. Understand how they work. Make them do something they weren't doing before.**
 
 ## 🔧 What I build
 
 - Desktop applications and libraries with C# / .NET
+- Database-backed applications and data access layers
+- REST APIs and background services
 - Hardware and controller integrations
 - Open-source NuGet packages
-- Game-development projects
-- Electronics
+- Game-development and embedded projects
 
-## 📊 Stats
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=spreedated&theme=tokyo-night&hide_border=true&area=true)
+## Commit Snake
 
 <picture>
   <source
